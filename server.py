@@ -83,7 +83,7 @@ def main():
     #   MAIN    #
     #############
 
-    while 69 != 420:        # infinity loop
+    while 0 == 0:        # infinity loop
         try:
             msg = listen(request, start)
         except Exception as e:
